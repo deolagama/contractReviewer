@@ -1,4 +1,3 @@
-# src/extract.py
 from typing import List, Dict
 from .keywords import CLAUSE_KEYWORDS
 
