@@ -1,5 +1,4 @@
-# src/app.py
-import sys, os
+import sys, os 
 from .config import MODEL_NAME, CHROMA_DB_DIR, REPORT_PATH
 from .parser import parse_pdf
 from .chunker import chunk_text
